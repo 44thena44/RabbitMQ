@@ -1,0 +1,85 @@
+ul {
+	list-style: none;
+	
+}
+
+.input-group {
+	margin-bottom: 3rem;
+}
+
+.btn-warning {
+	background-color: #DDD;
+	border: none;
+	color: #333;
+}
+
+
+.btn-outline-secondary {
+	color: #DDD;
+	border-color: #DDD;
+}
+
+#monthlyPaymentLabel,
+#mortgageAmountLabel {
+	border: 1px #DDD solid;
+	border-radius: 5px;
+	min-width: 25%;
+	word-wrap: none;
+
+}
+
+#totalRentLabel,
+#totalRent {
+	color: #555;
+
+}
+
+.coverPhoto {
+	max-height: 1vw;
+}
+
+
+
+.logo {
+	max-height: 40px;
+
+
+}
+
+.hide {
+	display: none;
+}
+
+button.close {
+	color: red;
+	padding-right: 0;
+	margin: 0;
+}
+
+.resultsBox {
+	border: 1px solid #3ad894;
+	border-radius: 10px;
+}
+
+.blueText {
+	color: #233177;
+	font-weight: bold;
+}
+
+.greenText {
+	color: #3ad894;
+}
+
+.results li {
+	padding: .2rem;
+	font-weight: bold;
+}
+
+.card{
+	border-radius: 20px;
+	
+}
+
+#output {
+	border-top: 1px solid #DDD;
+}
